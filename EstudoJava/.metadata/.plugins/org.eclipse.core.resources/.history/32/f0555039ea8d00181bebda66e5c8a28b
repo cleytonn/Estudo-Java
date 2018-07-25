@@ -1,0 +1,6 @@
+
+public class Conta {
+	void deposita(int num) {
+		int num = 100;
+	};
+}

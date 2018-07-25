@@ -1,0 +1,7 @@
+public abstract class MinhaExcecao extends RuntimeException {
+	private String num;
+	
+	public void MinhaExcecao(String num) {
+			String num = this.num;
+		}
+}
