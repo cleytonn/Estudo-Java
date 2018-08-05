@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87a2e8a5-376d-4ca7-aec4-8bed8317cc00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/0/30303ebca88f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/10/302965d4a78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/10/a0bc1da5a78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/11/608089c0a68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/12/50961d78998c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/13/8002f68f8a8c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/14/1024fea6f48d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/15/b0bf308bf28d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/15/f0968c4e195e00181567c192f7590960" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/1e/30da6ae2e98d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/1f/00468720ea8d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/22/f0ecb2f4a68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/25/20d139838a8c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/26/80a944f0898c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/2b/6031c7e5a68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/2c/50a3944da68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/2c/d0d12cbaa78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/2e/c072375d998c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/2e/c0f2d510a68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/30/a0b1d2d7a78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/32/f0555039ea8d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/34/a0bf9761998c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/38/1060c50e978f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/38/20462e87a68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/39/c0ff35ef968f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/3d/902f657ef38d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/3e/00f043e1a28f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/49/802044b2b28f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/4c/d067e2eef18d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/4f/80816530a38f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/50/501ee5cfb28f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/53/d098a98c998c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/55/50d00e28a78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/56/30641fdeb28f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/56/808298c4b28f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/56/90480af8968f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/57/40b4a347ba8f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/5a/302d28dcf38d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/5b/204937db968f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/5d/30c8eb4aea8d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/5e/d0748bbdf48d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/6/f07f9c19a68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/61/7051508a978c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/65/d0fba954ea8d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/69/e06ea706ea8d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/6a/d05476df958c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/6c/60a344169b8f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/6f/a003eeddf48d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/71/50cfdd8ca68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/78/40ea16c9a88f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/7a/90bf1d2c8b8c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/7b/c0899267a68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/7c/70f2fb34968c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/7e/a0864244f38d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/7e/f019092a978c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/80/00de386ff28d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/81/30e8a2e6a28f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/84/7051a503f58d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/84/f04160fca68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/86/0056c292978c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/87/20fdd861f38d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/8e/10bf5be2968f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/91/90b787119b8f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/96/30feea41978c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/97/10830e1a6e8c00181496fdd9e111126d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/a/10e96ed1a68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/a/c02b1f58f28d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/a2/403c156eb88f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/aa/907936f3bb8f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/b/b0d97b3d968c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/b2/f061f83a195e00181567c192f7590960" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/b3/b0ac9fb8a88f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/ba/303c75eef38d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/bd/00d06909a78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/bd/7047ee3a8a8c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/bf/9028c240ea8d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/c4/e0b847f7b78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/c5/6009e13a195e00181567c192f7590960" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/c8/207895aca68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/ca/70bfca67f38d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/cd/100d22109b8f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/d0/10bd4d15978f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/d4/906b9903ea8d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/d7/3068d039a78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/db/a0101755998c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/dd/60756795b88f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/e/a08e4db7918c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/e4/807276408a8c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/ec/a0ad6dd2f48d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/ee/7087c9cca78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/ef/20746a4af38d00181bebda66e5c8a28b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/ef/c00f575c978c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/f7/d0cc43a4a68f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/fa/400b453fa78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/fc/906fa62ea78f00181790c4db5c9506be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.history/fd/00fff787968c001818fdad282adb0938" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-composto/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-composto/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-composto/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-composto/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-encapsulado/4.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-encapsulado/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herança/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herança/3.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herança/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/4.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank-herdado-conta/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/bytebank/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/java-pilha/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/java-pilha/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/java-pilha/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/java-pilha/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-basica/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-basica/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-basica/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-variaveis-e-fluxo/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-variaveis-e-fluxo/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.projects/sintaxe-variaveis-e-fluxo/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.root/25.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.net.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.mpc.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.oomph.workingsets.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.recommenders.completion.rcp.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/Fluxo.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/FluxoComErro.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/TestaGetESet.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/TestaValores.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/Teste.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/TesteContas.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/TesteFuncionario.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/TesteGerente.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/TesteReferencias.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/TesteSacaNegativo.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.core/.launches/TesteSistema.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.e4.ui.workbench.swt/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.epp.mpc.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/1207362490.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/1459427292.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/1574964630.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/1914892012.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/1957342768.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/2129323544.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/2299224485.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/26406044.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/266233581.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/3036558207.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/3197688239.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/3612272032.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/3744067877.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/3751741110.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/3848528770.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/4243012665.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/47300866.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/811048030.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/980904367.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/5/19/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/5/19/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/5/22/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/5/22/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/6/24/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/6/24/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/7/29/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/7/29/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-composto/2018/5/21/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-composto/2018/5/21/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-encapsulado/2018/5/22/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-encapsulado/2018/5/22/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-encapsulado/2018/6/26/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-encapsulado/2018/6/26/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-herança/2018/5/22/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-herança/2018/5/22/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-herança/2018/6/26/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-herança/2018/6/26/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-herança/2018/7/28/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/bytebank-herança/2018/7/28/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/java-pilha/2018/7/29/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/java-pilha/2018/7/29/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/java-pilha/2018/7/30/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/java-pilha/2018/7/30/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.3.20180227-2137.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.0.20180606-2036.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.oomph.setup.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Fhome%2Feclipsenews.rss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Frecommenders%2Ffeeds%2Fide.rss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.recommenders.news.impl/read-items.uris" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/caches/identified-project-coordinates.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/caches/manual-mappings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_7.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_7.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_7.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_7.frq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_7.nrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_7.prx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_7.tii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_7.tis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_4.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_4.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_4.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_4.frq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_4.nrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_4.prx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_4.tii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_4.tis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments.gen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments_5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/bin/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/bin/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/bin/TestaGetESet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/bin/TestaValores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/src/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/src/TestaGetESet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-encapsulado/src/TestaValores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/Administrador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/AutenticacaoUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/Autenticavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/ControleBonificacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/Designer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/EditorVideo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/Gerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/SistemaInterno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/TesteFuncionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/TesteGerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/TesteReferencias.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/bin/TesteSistema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/Administrador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/AutenticacaoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/Autenticavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/ControleBonificacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/Designer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/EditorVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/Gerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/SistemaInterno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/TesteFuncionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/TesteGerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/TesteReferencias.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herança/src/TesteSistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/bin/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/bin/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/bin/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/bin/ContaPoupanca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/bin/TesteContas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/src/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/src/ContaCorrente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/src/ContaPoupanca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/bytebank-herdado-conta/src/TesteContas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/bin/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/bin/Fluxo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/bin/Fluxo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/bin/FluxoComErro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/bin/FluxoComTratamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/bin/MinhaExcecao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/src/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/src/Fluxo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/src/FluxoComErro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/src/FluxoComTratamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudoJava/java-pilha/src/MinhaExcecao.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bytebank-encapsulado/bin/" />
+    <ignored path="$PROJECT_DIR$/bytebank-herança/bin/" />
+    <ignored path="$PROJECT_DIR$/bytebank-herdado-conta/bin/" />
+    <ignored path="$PROJECT_DIR$/java-pilha/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-494723059">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bytebank-herdado-conta/src/modelo/Cliente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding>
+                <element signature="e#422#423#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bytebank-herdado-conta/src/modelo/SaldoInsuficienteException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="682" />
+    <option name="height" value="767" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bytebank-herdado-conta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bytebank-herdado-conta" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533318445149" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87a2e8a5-376d-4ca7-aec4-8bed8317cc00" name="Default Changelist" comment="" />
+      <created>1533317991505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533317991505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bytebank-herdado-conta/src/modelo/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bytebank-herdado-conta/src/modelo/teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bytebank-herdado-conta/src/modelo/SaldoInsuficienteException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
